@@ -1,6 +1,6 @@
 def insertion_sort(A, n):
     """Sorts array A of length n using insertion sort algorithm"""
-    for i in range(1, n):
+    for i in range(1, n): 
         key = A[i]
         j = i - 1
         while j >= 0 and A[j] > key:
