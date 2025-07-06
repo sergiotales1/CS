@@ -9,3 +9,26 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 ### Propositions
 
 What are propositions?
+
+# implication propositions
+
+- Used for what ?
+- apparently it can creates trivial propositions (insignificant)
+
+# Words
+
+riddled -> full of something undesirable like flaws or holes
+
+ambiguity -> the fact of something having more than one possible meaning
+
+endow -> earn an ability by chance or birth
+
+trivial -> insignificant
+
+devised -> to invent in a intelligently manner
+
+grumpy -> irritable
+
+conjecture -> form an opinion without proof
+
+murky -> dark and gloomy
