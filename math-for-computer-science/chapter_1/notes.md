@@ -47,13 +47,58 @@ Just like:
 
 > 💡 In both systems, the **position determines visibility and dependency.**
 
+### Domain
+
+The nonempty set of elements that a variable range over, for example N for natural numbers.
+
 # implication propositions
 
 - Used for what ?
 - apparently it can creates trivial propositions (insignificant)
+
+| It rains (A) | I bring umbrella (B) | "If it rains → I bring umbrella"                |
+| ------------ | -------------------- | ----------------------------------------------- |
+| ✅ Yes       | ✅ Yes               | ✅ You kept your promise                        |
+| ✅ Yes       | ❌ No                | ❌ You broke your promise                       |
+| ❌ No        | ✅ Yes               | ✅ You didn’t promise anything, but that’s fine |
+| ❌ No        | ❌ No                | ✅ Still fine — no rain, no expectation         |
 
 ## Compound propositions
 
 ### Implication
 
 An implication is true exactly when the if-part is false or the then-part is true
+
+### Propositional Formula
+
+A propositional formula is a logical expression made up of propositional variables (like PP, QQ, and RR) combined using logical connectives such as:
+
+- AND ( ∧ )
+
+- OR ( ∨ )
+
+- NOT ( ¬ )
+
+- IMPLIES ( → )
+
+- IFF ( ↔, “if and only if”)
+
+Each propositional variable represents a statement that can be either true (T) or false (F).
+
+A formula becomes valid if it always evaluates to true, regardless of the truth values assigned to its variables.
+
+# Predicate Formula
+
+A predicate formula (also called a first-order logic formula) is like a more powerful version of a propositional formula.
+It allows:
+
+- Variables (like x,yx,y)
+- Predicates that describe properties or relations, like:
+
+  - P(x)P(x): “xx is a student”
+  - P(x,y)P(x,y): “xx knows yy” (a binary predicate)
+
+- Quantifiers:
+
+  - ∀x: “for all xx” (universal quantifier)
+  - ∃x: “there exists an xx” (existential quantifier)

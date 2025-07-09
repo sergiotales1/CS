@@ -24,6 +24,10 @@ quantifier - used to give quantity of something
 
 implication - compound statement
 
+appeal - to make a request ?
+
+presumably - used to say that what you think is the likely situation
+
 ## Saved
 
 riddled -> full of something undesirable like flaws or holes
