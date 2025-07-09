@@ -6,16 +6,25 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 [current lecture](https://www.youtube.com/watch?v=L3LMbpZIKhQ&t=1s)
 
-### Propositions
-
-What are propositions?
-
-# implication propositions
-
-- Used for what ?
-- apparently it can creates trivial propositions (insignificant)
-
 # Words
+
+composite - something made up of different parts
+
+evaluate - to judge or calculate something
+
+contrived - artificial and difficult to believe
+
+claim - say that something is true
+
+inherently - necessary or natural part of something
+
+plane / planar - 2d or flat
+
+quantifier - used to give quantity of something
+
+implication - compound statement
+
+## Saved
 
 riddled -> full of something undesirable like flaws or holes
 
