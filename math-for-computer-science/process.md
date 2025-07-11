@@ -8,9 +8,11 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
-composite - something made up of different parts
+outset - beginning or start (from the outset)
 
-evaluate - to judge or calculate something
+acquaintance - person you met but don't know well
+
+reckoning - an evaluation that you make
 
 contrived - artificial and difficult to believe
 
@@ -29,6 +31,10 @@ appeal - to make a request ?
 presumably - used to say that what you think is the likely situation
 
 ## Saved
+
+composite - something made up of different parts
+
+evaluate - to judge or calculate something
 
 riddled -> full of something undesirable like flaws or holes
 
