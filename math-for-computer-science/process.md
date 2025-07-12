@@ -8,6 +8,14 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
+## Saved
+
+implication - compound statement
+
+appeal - to make a request ?
+
+presumably - used to say that what you think is the likely situation
+
 outset - beginning or start (from the outset)
 
 acquaintance - person you met but don't know well
@@ -23,14 +31,6 @@ inherently - necessary or natural part of something
 plane / planar - 2d or flat
 
 quantifier - used to give quantity of something
-
-implication - compound statement
-
-appeal - to make a request ?
-
-presumably - used to say that what you think is the likely situation
-
-## Saved
 
 composite - something made up of different parts
 
