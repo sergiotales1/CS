@@ -26,3 +26,7 @@ B) Unequal
 | F   | F   | T   | T              | T              | T              | T                |
 | F   | T   | F   | T              | T              | T              | T                |
 | F   | F   | F   | T              | T              | T              | T                |
+
+### 3-
+
+A) Check image 01 inside this folder
