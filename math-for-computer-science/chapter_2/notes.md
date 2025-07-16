@@ -60,3 +60,9 @@ The cardinality of a set is defined as the number of elements in a mathematical 
 |A| is read as "the cardinality of set A"
 
 |{0, 1, 2}| = 3
+
+# Sets
+
+∪ (Union) -> This represents the union between two sets.
+
+∩ (Intersection) -> This represents the common elements shared between two sets

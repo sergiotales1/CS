@@ -8,13 +8,17 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
+sparingly - small amounts, using less
+
+long-winded - verbose
+
+## Saved
+
 contradiction - something very different from something else implying that one of them may be wrong.
 
 pitfall - mistake or problem
 
 denote - to represent something
-
-## Saved
 
 implication - compound statement
 
