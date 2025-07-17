@@ -8,6 +8,14 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
+open-ended - no limits or boundaries
+
+sly - secretly
+
+offhand - without thinking carefully
+
+induction - draw a general conclusion from observations or facts.
+
 sparingly - small amounts, using less
 
 long-winded - verbose
