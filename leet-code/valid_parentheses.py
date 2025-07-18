@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/valid-parentheses/description/
 def validParentheses(s):
   
   stack = []

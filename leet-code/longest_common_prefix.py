@@ -28,7 +28,6 @@ def mv(strs):
 
 
 
-
 strs = ["hey", "he", "hello"]
 strs = ["food", "fool", "family"]
 print(mv(strs))
