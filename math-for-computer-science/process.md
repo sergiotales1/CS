@@ -8,6 +8,14 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
+mileage - distance traveled by a car
+
+premises - surroundings?
+
+reasoning - thinking about a decision
+
+assorted - a mix of things
+
 open-ended - no limits or boundaries
 
 sly - secretly
