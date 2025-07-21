@@ -8,6 +8,12 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
+tiling - multiple tiles placed together
+
+writeup - a complete report taken out of earlier notes
+
+extraneous - not directly related to something
+
 mileage - distance traveled by a car
 
 premises - surroundings?
@@ -18,10 +24,6 @@ assorted - a mix of things
 
 open-ended - no limits or boundaries
 
-sly - secretly
-
-offhand - without thinking carefully
-
 induction - draw a general conclusion from observations or facts.
 
 sparingly - small amounts, using less
@@ -29,6 +31,10 @@ sparingly - small amounts, using less
 long-winded - verbose
 
 ## Saved
+
+sly - secretly
+
+offhand - without thinking carefully
 
 contradiction - something very different from something else implying that one of them may be wrong.
 
