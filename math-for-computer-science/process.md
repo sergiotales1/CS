@@ -8,13 +8,7 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
-tiling - multiple tiles placed together
-
-writeup - a complete report taken out of earlier notes
-
-extraneous - not directly related to something
-
-mileage - distance traveled by a car
+bestow - to give a present or something
 
 premises - surroundings?
 
@@ -31,6 +25,14 @@ sparingly - small amounts, using less
 long-winded - verbose
 
 ## Saved
+
+tiling - multiple tiles placed together
+
+writeup - a complete report taken out of earlier notes
+
+extraneous - not directly related to something
+
+mileage - distance traveled by a car
 
 sly - secretly
 
