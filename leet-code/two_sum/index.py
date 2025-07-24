@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/two-sum/
 from typing import List
 
 def twoSum(nums: List[int], target: int) -> List[int]: # List is just a type we don't actually need it 

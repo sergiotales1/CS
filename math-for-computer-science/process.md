@@ -8,9 +8,11 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
-bestow - to give a present or something
+namely - to give more detail
 
-premises - surroundings?
+partial - not complete / has bias
+
+bestow - to give a present or something
 
 reasoning - thinking about a decision
 
@@ -18,13 +20,15 @@ assorted - a mix of things
 
 open-ended - no limits or boundaries
 
+## Saved
+
+premises - surroundings?
+
 induction - draw a general conclusion from observations or facts.
 
 sparingly - small amounts, using less
 
 long-winded - verbose
-
-## Saved
 
 tiling - multiple tiles placed together
 

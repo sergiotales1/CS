@@ -39,3 +39,29 @@ We create a constructor case that will add [ or ] for every item in the brackets
 - Prove P for the constructor cases of the definition, assuming that it is true for the component data items
 
 page - 72
+
+## Functions on Recursively defined data types
+
+So a function will map a value from the domain set to a value from an element of the codomain.
+
+f: A -> B
+
+so b is called the value of f (function) at argument a
+
+B is not part of the codomain, instead, it usually is about the rule in which the output (element of B) will arise.
+
+#### Definition
+
+In essence, functions on recursively defined data types leverage the very structure of the data to break down processing into manageable, self-similar steps, making complex operations elegant and provably correct.
+
+### f(S)
+
+f(S) is the set of all unique output values that a function f produces when you apply f to every single element within a specific subset S of its domain.
+
+### The range of f
+
+It is the set of values that arise from applying f to every single one element of its domain.
+
+#### Remember
+
+Propositional variables are just propositions like Q -> P or P.
