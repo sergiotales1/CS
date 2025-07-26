@@ -24,6 +24,8 @@ Instead of just assuming that p(n) is true, we assume that p(1), ..., p(n) is tr
 
 # Structural induction
 
+Structural induction is a proof technique used to prove properties about recursively defined data structures.
+
 Base case -> the initial items of the set, that doesn't depend in any other value.
 
 Constructor case -> recursive proposition that will create other values of this set, arising from this. Create new elements using the elements we already have within the set.
@@ -65,3 +67,5 @@ It is the set of values that arise from applying f to every single one element o
 #### Remember
 
 Propositional variables are just propositions like Q -> P or P.
+
+# Why use recursively defined data types and what's this correlation with structural induction ?

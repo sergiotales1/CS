@@ -29,4 +29,11 @@ B) Unequal
 
 ### 3-
 
-A) Check image 01 inside this folder
+A)
+(I) (A nand A) nand (B nand B)
+(II) (A nand A) nand (B nand B)
+(III) (A NAND (A NAND B)) NAND (A NAND (A NAND B))(A NAND (A NAND B)) NAND (A NAND (A NAND B)) ← derived from equivalence
+
+(Only with try and error)
+
+B) (A nand A)
