@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/
+
 def i(nums):
   arr = []
   for n in nums:
@@ -13,7 +15,14 @@ def i(nums):
   for n in arr:
     total+=n
 
+  if total == 0:
+    total = nums[0]
+    for n in nums:
+      if total < n:
+        total = n
+
   return total
   
 
 print(i([1,2,3,4,5]))
+print(i([-100, 0]))
