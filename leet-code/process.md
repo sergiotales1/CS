@@ -7,3 +7,11 @@ Linked list is a non-contiguous data structure made of nodes that point to the n
 # Linked Lists and React Fiber Tree
 
 I found this similarity with React Fiber. There we point to siblings, parents and child, just like a linked list does, we can traverse all the three only by having a single element of it.
+
+## Bitwise
+
+what is bitwise? what is bitwise or ?
+
+## dfs
+
+Deep-first search? what is this ?

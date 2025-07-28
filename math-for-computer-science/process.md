@@ -8,6 +8,16 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
+scale - device used to weighting people or things
+
+jug - a container for holding liquids
+
+evenly - in equal terms / amount
+
+underlie - to cause or have strong influence
+
+rejoicing - feeling of happiness
+
 adhere - stick
 
 blunder - serious mistake
