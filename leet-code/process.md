@@ -10,7 +10,11 @@ I found this similarity with React Fiber. There we point to siblings, parents an
 
 ## Bitwise
 
-what is bitwise? what is bitwise or ?
+Bitwise operators can perform logic, comparison, math and transformations at the binary level. (0s and 1s)
+
+# Algorithms
+
+We need to memorize binary search and dfs
 
 ## dfs
 
