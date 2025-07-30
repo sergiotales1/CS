@@ -19,3 +19,9 @@ We need to memorize binary search and dfs
 ## dfs
 
 Deep-first search? what is this ?
+
+### Graph
+
+Apparently we use dfs to search for nodes in graphs
+
+What are graphs?

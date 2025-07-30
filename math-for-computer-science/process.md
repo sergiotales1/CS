@@ -8,6 +8,10 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
+coefficient - a number that multiplies a variable
+
+furthermore - additionally
+
 scale - device used to weighting people or things
 
 jug - a container for holding liquids
