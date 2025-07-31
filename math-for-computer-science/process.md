@@ -14,7 +14,7 @@ furthermore - additionally
 
 scale - device used to weighting people or things
 
-jug - a container for holding liquids
+jug (pitcher) - a container for holding liquids
 
 evenly - in equal terms / amount
 
@@ -27,16 +27,6 @@ adhere - stick
 blunder - serious mistake
 
 encounter - to face, to meet
-
-conversely - contrary
-
-namely - to give more detail
-
-partial - not complete / has bias
-
-bestow - to give a present or something
-
-reasoning - thinking about a decision
 
 assorted - a mix of things
 
@@ -111,3 +101,13 @@ grumpy -> irritable
 conjecture -> form an opinion without proof
 
 murky -> dark and gloomy
+
+conversely - contrary
+
+namely - to give more detail
+
+partial - not complete / has bias
+
+bestow - to give a present or something
+
+reasoning - thinking about a decision

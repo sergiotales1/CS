@@ -28,8 +28,14 @@ Then we entered the divisibility theory.
 
 We prove that m | a by using the division algorithm and proving that the remainder is zero (r in a = q . m + r)
 
-### Corollary 4.2.2.
+### Corollary 4.2.2
 
 Every multiple of gcd(a, b) is also a linear combination of a and b since n = gcd(a, b) . k and gcd(a, b) = xa + yb
 
 Initially it looks easy to prove and trivial, but the point about proving it is that it guarantees that for every n multiple of gcd, n = ax + by for some integers x and y (n is a linear combination of a and b)
+
+# Water jug process
+
+All of this started when we discovered that linear combinations are related to common divisors.
+
+First we proved that every jug has a linear combination of a and b amount of water. Then we proved that m (the smallest linear combination of a and b) is equal to gdc(a, b), then we proved that in order to be a linear combination, an integer has to be a multiple of gdc(a, b).
