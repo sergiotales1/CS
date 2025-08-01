@@ -8,6 +8,18 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
+quirk - strange
+
+stump - tree part of locked in a question or somewhere unable to leave
+
+worthwhile - useful
+
+remarkably - surprising
+
+readily - quickly, immediately
+
+whereupon - immediately after which
+
 coefficient - a number that multiplies a variable
 
 furthermore - additionally

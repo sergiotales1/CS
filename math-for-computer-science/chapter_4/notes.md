@@ -39,3 +39,17 @@ Initially it looks easy to prove and trivial, but the point about proving it is 
 All of this started when we discovered that linear combinations are related to common divisors.
 
 First we proved that every jug has a linear combination of a and b amount of water. Then we proved that m (the smallest linear combination of a and b) is equal to gdc(a, b), then we proved that in order to be a linear combination, an integer has to be a multiple of gdc(a, b).
+
+## Solution
+
+We proved that if the target amount of water is a multiple of gcd(a, b), then we just need to fill the smaller jug and pour it into the bigger jug infinitely until it reaches the target amount of water.
+
+### Lessons
+
+- The obvious is not obvious until you prove it
+- greatest common divisors and linear combinations can be useful
+- some proofs demand work and not to be lazy
+
+# The fundamental theorem of Arithmetic
+
+Prime numbers are the foundation of all natural numbers.
