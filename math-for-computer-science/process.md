@@ -8,6 +8,18 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
+wrap - cover or surround something
+
+intrinsically - inherent
+
+glaring - something bad and obvious
+
+bound - certain to happen
+
+breakthrough - important discovery
+
+shroud - surrounded / hidden
+
 quirk - strange
 
 stump - tree part of locked in a question or somewhere unable to leave

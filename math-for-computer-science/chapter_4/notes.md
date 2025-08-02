@@ -53,3 +53,9 @@ We proved that if the target amount of water is a multiple of gcd(a, b), then we
 # The fundamental theorem of Arithmetic
 
 Prime numbers are the foundation of all natural numbers.
+
+- Just like atoms are the basic building blocks of matter.
+
+# Alan Turing
+
+- devised the bridge between mathematics and computation
