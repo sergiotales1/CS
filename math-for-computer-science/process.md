@@ -34,16 +34,6 @@ whereupon - immediately after which
 
 coefficient - a number that multiplies a variable
 
-furthermore - additionally
-
-scale - device used to weighting people or things
-
-jug (pitcher) - a container for holding liquids
-
-evenly - in equal terms / amount
-
-underlie - to cause or have strong influence
-
 rejoicing - feeling of happiness
 
 adhere - stick
@@ -57,6 +47,16 @@ assorted - a mix of things
 open-ended - no limits or boundaries
 
 ## Saved
+
+furthermore - additionally
+
+scale - device used to weighting people or things
+
+jug (pitcher) - a container for holding liquids
+
+evenly - in equal terms / amount
+
+underlie - to cause or have strong influence
 
 premises - surroundings?
 

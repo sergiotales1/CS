@@ -17,7 +17,11 @@ def i(haystack, needle):
 
 haystack = "sadbutsad" # i = 0
 needle = "sad"
-# haystack = "lle" # i = 0 haystack[0: 0 + 2]
-# needle = "ll" # s = 5
-# 3 - 2 + 1 = 2
+# haystack = "dress"
+# needle = "ss"
+# i <= 3
+# i = 0 | dr e [0 : 2]
+# i = 1 | re s
+# i = 2 | es s
+# i = 3 | ss _
 print(i(haystack, needle))
