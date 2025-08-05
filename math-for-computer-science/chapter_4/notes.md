@@ -59,3 +59,17 @@ Prime numbers are the foundation of all natural numbers.
 # Alan Turing
 
 - devised the bridge between mathematics and computation
+
+# Importance of lemmas and corollaries
+
+When we proof something with a lemma and a corollary we open a broader view of this proposition... We can then utilize the extra knowledge that we acquired with these corollary and lemma to ease our calculations and more.
+
+TLDR: There are always easier ways to do the same (thing)! You just need to link these ways together.
+
+A is an approach. B is another approach easier than A.
+
+If i prove that the result obtained by A is the same by B then i can link both approaches and stick with the easiest.
+
+thing = calculation, solution, API...
+
+### Don't be lazy. Make it natural (easier).
