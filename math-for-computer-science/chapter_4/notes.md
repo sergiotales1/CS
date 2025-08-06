@@ -18,6 +18,10 @@ A number that can divide two elements. In the water jug problem we're trying to 
 
 Example: gcd(18, 24) = 6 <- 6 can divide both
 
+# Bézout identity
+
+Let a and b be integers with greatest common divisor d. Then there exist integers x and y such that ax + by = d
+
 # Water gallons
 
 We found out that every amount of water in each jug "a" and "b" can be represented as a linear combination.
@@ -73,3 +77,17 @@ If i prove that the result obtained by A is the same by B then i can link both a
 thing = calculation, solution, API...
 
 ### Don't be lazy. Make it natural (easier).
+
+# Multiplicative inverse
+
+The multiplicative inverse of a number is the number that, when multiplied by the original number, gives 1.
+
+For a number a, its multiplicative inverse is a number b, such that:
+
+a x b = 1
+
+then b is the multiplicative inverse of a
+
+# How to decrypt Turing's code
+
+We found that m\*k-1 is congruent to m which means that both divided by p share the same remainder. Therefore to know what m is we just need to check the REM(m\*k-1, p)

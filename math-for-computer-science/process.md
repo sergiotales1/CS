@@ -8,6 +8,8 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
+sole - unique / only
+
 convoy - group of ships or vehicles that travel together
 
 partition - division of something into smaller parts
