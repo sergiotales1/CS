@@ -12,3 +12,5 @@ I've spent some time looking how the react fiber tree works under the hood and i
 During the [lecture 3 - Insertion Sort, Merge Sort](https://www.youtube.com/watch?v=Kg4bqzAqRBM&t=505s), we can see the teacher drawing something like the react fiber tree. They look a like because both are divide-and-conquer algorithms.
 
 [GPT detailed explanation](https://chatgpt.com/share/68613f94-3fac-8013-8aa5-a0f5208706b2)
+
+# To run jupyter notebook use python -m jupyter notebook

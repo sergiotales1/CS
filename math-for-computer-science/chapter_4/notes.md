@@ -88,6 +88,14 @@ a x b = 1
 
 then b is the multiplicative inverse of a
 
+## In modular arithmetic
+
+We use the multiplicative inverse to find the number which, when multiplied by a, is congruent to 1 modulo nn — that is, it leaves a remainder of 1 when divided by nn.
+
 # How to decrypt Turing's code
 
 We found that m\*k-1 is congruent to m which means that both divided by p share the same remainder. Therefore to know what m is we just need to check the REM(m\*k-1, p)
+
+# Coprime
+
+Integers a and b are relatively prime if their greatest common divisor (gcd) is 1. This means they share no common prime factors.

@@ -1,3 +1,6 @@
 # https://leetcode.com/problems/roman-to-integer/description/
-def review(s):
+def r(s):
   return
+
+
+print(r("MCMXCIV")) # 1994

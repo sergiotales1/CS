@@ -8,6 +8,12 @@ We're currently watching the MIT 6042j - Mathematics for Computer Science.
 
 # Words
 
+arbitrary - based on idea rather than reason
+
+moreover - also and more importantly
+
+permutation - ways that a set of items can be ordered
+
 sole - unique / only
 
 convoy - group of ships or vehicles that travel together
@@ -40,6 +46,8 @@ whereupon - immediately after which
 
 coefficient - a number that multiplies a variable
 
+## Saved
+
 rejoicing - feeling of happiness
 
 adhere - stick
@@ -51,8 +59,6 @@ encounter - to face, to meet
 assorted - a mix of things
 
 open-ended - no limits or boundaries
-
-## Saved
 
 furthermore - additionally
 

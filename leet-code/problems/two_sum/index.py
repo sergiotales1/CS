@@ -12,15 +12,9 @@ def twoSum(nums: List[int], target: int) -> List[int]: # List is just a type we 
         prevMap[n] = i
     return
 
-
-def mv(arr, target):
-    return
-
-
 nums = [2, 7, 4, 11, 15]
 target = 15
 result = twoSum(nums, target)
-result = mv(nums, target)
 print(f"Result: {result}")
 
 

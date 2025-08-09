@@ -37,3 +37,9 @@ A)
 (Only with try and error)
 
 B) (A nand A)
+
+4 - Separe the coins in two groups of 6 and measure them, discard the heavier side and keep the lighter side. Separe this group in two groups of 3 coins and weigh both. Discard the heavier and keep the lighter side. Take two coins out of the 3 lighter coins and measure them together.
+
+If the measurement reaches an equal result then the lighter coin, namely, the fake one is the third coin unweighted.
+
+if the measurement points out a lighter coin then this is the fake coin.
