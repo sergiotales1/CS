@@ -99,3 +99,30 @@ We found that m\*k-1 is congruent to m which means that both divided by p share 
 # Coprime
 
 Integers a and b are relatively prime if their greatest common divisor (gcd) is 1. This means they share no common prime factors.
+
+# RSA - introduction
+
+RSA uses a system different than Turing's, it makes the modulo be the product of two large primes, instead of modulo a prime introduced by Turing's theory.
+
+### Composite number
+
+A **composite number** is a positive integer greater than 1 that has **more than two distinct positive factors** — meaning it can be divided evenly by 1, itself, and at least one other number.
+
+In simpler terms:
+
+- **Prime numbers** have exactly two factors: 1 and themselves.
+- **Composite numbers** have more than two factors.
+
+Example:
+
+- **4** is composite because its factors are 1, 2, and 4.
+- **6** is composite because its factors are 1, 2, 3, and 6.
+
+The smallest composite number is **4**.
+The number **1** is neither prime nor composite.
+
+### Lemma 4.7.3
+
+It starts by assuming the remainders are equal and shows that this assumption leads to a contradiction, namely that ki​ must be equal to kj​, which goes against our initial assumption that ki​ and kj​ were different members of the set.
+
+- Super complicated but we reached a conclusion by using the definition of remainder and gcd.
