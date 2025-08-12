@@ -126,3 +126,29 @@ The number **1** is neither prime nor composite.
 It starts by assuming the remainders are equal and shows that this assumption leads to a contradiction, namely that ki​ must be equal to kj​, which goes against our initial assumption that ki​ and kj​ were different members of the set.
 
 - Super complicated but we reached a conclusion by using the definition of remainder and gcd.
+
+Check thoughts.md
+
+### Function
+
+A mathematical function is a relationship between a set of inputs (domain) and a set of possible outputs (range), where each input is linked to exactly one output.
+
+for example:
+
+f(x) = y
+
+"f or x equals y"
+
+No matter what number you put in for x, there will be only one possible output for y. For example, the input 3 cannot have both 9 and 10 as outputs. This "one input, one output" rule is what makes it a function.
+
+### Prime factor
+
+Is a prime number that divides a given number exactly.
+
+For example the n 12 has the factors: 1, 2, 3, 4, 6 and 12.
+
+But from this list only 2 and 3 are primes, thus these are the prime factors of 12 (2 and 3).
+
+# Euler's theorem
+
+φ(n) -> represents the numbers from 1 to n that are relatively prime to n
