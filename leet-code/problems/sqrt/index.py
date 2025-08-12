@@ -17,7 +17,6 @@ def i(x):
 
 
 
-
 print(i(9)) # 1
 # print(i(4)) # 2
 
