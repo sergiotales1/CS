@@ -152,3 +152,13 @@ But from this list only 2 and 3 are primes, thus these are the prime factors of 
 # Euler's theorem
 
 φ(n) -> represents the numbers from 1 to n that are relatively prime to n
+
+# Lecture
+
+## Mathematical model of computation
+
+A mathematical model of computation is an abstract representation of a computing device or process. It provides a formal framework for studying the fundamental capabilities and limitations of algorithms and computers, regardless of the specific hardware or programming language used.
+
+### Key characteristics
+
+These models are essential for answering questions about computability (what can be computed at all) and computational complexity (how efficiently something can be computed). They allow us to analyze the performance of algorithms and categorize problems based on how hard they are to solve.
