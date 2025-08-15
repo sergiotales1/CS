@@ -26,6 +26,12 @@ Apparently we use dfs to search for nodes in graphs
 
 What are graphs?
 
+# hash sets
+
+A hash set is a data structure that stores a collection of unique, unordered elements. It's an efficient way to check for the existence of an item, as well as to add and remove items.
+
+check happy_number to see applications
+
 # How to write good and concise code?
 
 Get to know the data! Check the roman_to_integer exercise and you will see a concise code that can only be like that because we know the constraints that roman numerals have. They can't have an X before an M for example, thus our job is much easier.

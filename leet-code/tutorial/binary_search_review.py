@@ -4,4 +4,4 @@ def binary_search(nums, target):
 
 
 nums = [1, 2, 3, 5, 7, 9, 10]
-print(binary_search(nums, 2))
+print(binary_search(nums, 10))

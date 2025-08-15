@@ -15,3 +15,5 @@ py -m problems.remove_duplicates_from_sorted_list.index
 - Understand -m prefix
 - What's this python cache folder?
   - They're just the binaries and make the execution faster, python usually only creates them when we are using an import inside the file.
+
+## What are list comprehensions?
